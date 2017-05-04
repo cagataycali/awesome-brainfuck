@@ -1,0 +1,14 @@
+{
+  "name": "brainfuck-web-app",
+  "private": false,
+  "scripts": {
+    "start": "node server",
+    "test": "standard"
+  },
+  "dependencies": {
+    "brainfuck2000": "^0.1.1"
+  },
+  "devDependencies": {
+    "standard": "^6.0.8"
+  }
+}
