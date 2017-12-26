@@ -152,6 +152,8 @@ Yet another cool hello world [example](/examples/hello-world.bf) with brainfuck 
 
 #### :eyes: [Pseudo Random Number Generator](https://github.com/pablojorge/brainfuck/blob/master/programs/random.bf)
 
+There is no way to generate pseudorandoms without seed
+
 [example](/examples/random.bf)
 
 ```brainfuck
@@ -165,7 +167,7 @@ Yet another cool hello world [example](/examples/hello-world.bf) with brainfuck 
 ]
 ```
 
-#### :key: [Caesar cypher](https://gist.github.com/shahar96/1215cd1408328d8c5b88)
+#### :key: [Caesar cipher](https://gist.github.com/shahar96/1215cd1408328d8c5b88)
 
 [example](/examples/caesar.bf)
 
@@ -177,6 +179,7 @@ Yet another cool hello world [example](/examples/hello-world.bf) with brainfuck 
 
 * [Explanation](https://codegolf.stackexchange.com/revisions/24568/4)
 * [example](/examples/fork-bomb.bf)
+* Proper one can be made using BrainFork
 
 ```brainfuck
 +[>+]
